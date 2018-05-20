@@ -1,0 +1,13 @@
+1.0 2.0 +
+3 4 *
+6 3 * 2 - sqrt
+1 + 1
+4 2 - 2 - 1000 *
+1 2 + 4 - 5 + 3 *
+1 2 + 4 * 5 + 3 -
+- 1
+2 avg 2
+2 3 avg 3 + sqrt
+2 3 avg sqrt sin cos atan
+2 atan
+2 atan 2
